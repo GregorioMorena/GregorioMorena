@@ -4,5 +4,5 @@ I'm currently helping small companies in the management of their data, automatiz
 
 ## Feel free to contact me
 
-- twitter.com/GregorioMP1985
-- linkedin.com/in/gregoriomorena
+- You can find me on <a href='twitter.com/GregorioMP1985'>Twitter</a>
+- Or contact me on <a href='linkedin.com/in/gregoriomorena'>LinkedIn</a>
