@@ -1,4 +1,4 @@
-## Hi, I'm Gregorio. A finance and payroll specialist switching career to data analysis.
+## Hi, I'm Gregorio. A Data Analyst with finance and payroll background.
 
 I'm currently helping small companies in the management of their data, automatizing accounting and reporting process. I also use ML tools to improve business analysis, budgets and forecasts.
 
