@@ -2,11 +2,6 @@
 [Your current content]
 
 ## Featured Projects
-
-### 🛠️ Professional Tools & Automations
-- **Dopler** - Ship dock planning tool (Private repository)
-  - Python/VBA based tool for resource optimization
-  - Integrated data pipeline for metrics analysis
   
 ### 🔧 Personal Projects
 - **[Project Name]** - [Brief description]
