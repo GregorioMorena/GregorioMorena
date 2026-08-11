@@ -2,7 +2,7 @@
 
 I'm a Business Analyst at Amazon with a unique blend of financial expertise and technical skills. I specialize in developing automated solutions that transform complex operational challenges into efficient, data-driven processes.
 
-🛠️ Currently leading development of warehouse optimization tools and mechanical performance monitoring systems at Amazon Central Flow, where I combine:
+🛠️ Currently leading development of warehouse optimization tools and mechanical performance monitoring systems at Amazon NFT, where I combine:
 - Data pipeline development
 - Dashboard creation
 - Process automation
@@ -29,10 +29,5 @@ I'm a Business Analyst at Amazon with a unique blend of financial expertise and 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GregorioMorena&show_icons=true&theme=radical)
-
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gregoriomorena)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://gmorena.dev)
