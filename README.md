@@ -31,7 +31,7 @@ I'm a Business Analyst at Amazon with a unique blend of financial expertise and 
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GregorioMorena&show_icons=true&theme=radical)
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gregoriomorena)
